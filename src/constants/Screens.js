@@ -1,0 +1,14 @@
+const Screens ={
+    TAB_NAVIGATION:'TAB_NAVIGATION',
+    HOME:'HOME',
+    PROFILE:'PROFILE',
+    CAMARA:'CAMERA',
+    PROGRAM:'PROGRAM',
+    MUSIC:'MUSIC',
+    SIGN_IN:'SIGN_IN',
+    SIGN_UP:'SIGN_UP',
+    SPLASH:'SPLASH',
+    NETWORK_ERROR:'NETWORK_ERROR'
+}
+
+export default Screens;
